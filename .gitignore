@@ -1,0 +1,63 @@
+# macOS system files
+.DS_Store
+
+# Xcode user-specific data
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+# Xcode project/workspace
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+
+*.xcworkspace/*
+!*.xcworkspace/contents.xcworkspacedata
+
+# Swift package manager
+.swiftpm/
+Packages/
+Package.resolved
+
+# Build artifacts
+DerivedData/
+build/
+*.app
+*.ipa
+*.xcarchive
+
+# Swift Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Code coverage
+*.gcno
+*.profraw
+*.profdata
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Fastlane 
+fastlane/report.xml
+fastlane/screenshots/
+fastlane/test_output/
+fastlane/Preview.html
+
+# Temporary files, logs, IDE junk
+*.log
+*.tmp
+*.lock
+*.swp
+*.bak
+*.old
+*.orig
+
+# Editor config
+.idea/
+*.env
+.env.*
+
+# Markdown preview cache
+*.markdown.preview
