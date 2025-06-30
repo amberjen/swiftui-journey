@@ -10,6 +10,6 @@
       <li><strong>Concept</strong>: An app that calculates how to split a check and tip among multiple people.</li>
     </ul>
   </td>
-  <td width="30%" style="text-align: center;"><img src="./Demo/01-WeSplit.gif" width="100%" /></td>
+  <td width="30%" style="text-align: center;"><img src="./Demo/01-WeSplit.gif" alt="WeSplit Demo" width="100%" /></td>
 </tr>
 </table>
