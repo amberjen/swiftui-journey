@@ -1,6 +1,7 @@
 # 100 Days of SwiftUI
 
 <table>
+
   <thead>
     <tr>
       <th>#</th>
@@ -9,14 +10,15 @@
       <th width="30%">Demo</th>
     </tr>
   </thead>
+
   <tbody>
     <tr>
       <td>01</td>
       <td>WeSplit</td>
       <td>
         <ul>
-          <li><strong>Challenge</strong>: Build an app that handles unit conversions.</li>
-          <li><strong>Concept</strong>: Turn your steps into snacks.</li>
+          <li><strong>Topics</strong>: Form, NavigationStack, @State, Picker</li>
+          <li><strong>Concept</strong>: An app that calculates how to split a check and tip among multiple people</li>
         </ul>
       </td>
       <td>
@@ -38,14 +40,26 @@
     </tr>
     <tr>
       <td>03</td>
-      <td>Guess The Flag</td>
+      <td>GuessTheFlag</td>
       <td>
         <ul>
           <li><strong>Topics</strong>: VStack, Image, LinearGradient, Buttons, Alert</li>
         </ul>
       </td>
       <td>
-        <img src="./Demo/03-GuessTheFlag.gif" alt="Guess The Flag Demo" width="100%" />
+        <img src="./Demo/03-GuessTheFlag.gif" alt="GuessTheFlag Demo" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td>04</td>
+      <td>BetterRest</td>
+      <td>
+        <ul>
+          <li><strong>Topics</strong>: Stepper, DatePicker, DateFormatter, Core ML</li>
+        </ul>
+      </td>
+      <td>
+        <img src="./Demo/04-BetterRest.gif" alt="BetterRest Demo" width="100%" />
       </td>
     </tr>
   </tbody>
