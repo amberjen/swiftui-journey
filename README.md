@@ -62,5 +62,17 @@
         <img src="./Demo/04-BetterRest.gif" alt="BetterRest Demo" width="100%" />
       </td>
     </tr>
+    <tr>
+      <td>05</td>
+      <td>Animations</td>
+      <td>
+        <ul>
+          <li><strong>Topics</strong>: Implicit animations, explicit animations, binding animations</li>
+        </ul>
+      </td>
+      <td>
+        <img src="./Demo/05-Animations.gif" alt="Animations Demo" width="100%" />
+      </td>
+    </tr>
   </tbody>
 </table>
