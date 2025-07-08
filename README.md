@@ -66,7 +66,7 @@
       <td>06</td>
       <td>iExpense</td>
       <td>
-        @Observable, sheet(), onDelete()
+        @Observable, sheet(), onDelete(), Codable, UserDefaults
       </td>
       <td>
         <img src="./Demo/06-iExpense.gif" alt="iExpense Demo" width="100%" />
