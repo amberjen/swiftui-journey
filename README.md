@@ -72,5 +72,15 @@
         <img src="./Demo/06-iExpense.gif" alt="iExpense Demo" width="100%" />
       </td>
     </tr>
+    <tr>
+      <td>07</td>
+      <td>LayoutAndGeometry</td>
+      <td>
+        Layout, alignment, custom guides, GeometryReader
+      </td>
+      <td>
+        <img src="./Demo/07-LayoutAndGeometry.gif" alt="LayoutAndGeometry Demo" width="100%" />
+      </td>
+    </tr>
   </tbody>
 </table>
