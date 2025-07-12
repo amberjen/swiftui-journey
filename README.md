@@ -1,11 +1,11 @@
 # 100 Days of SwiftUI
 
 Exploring SwiftUI through a variety of learning resources.
-- [Part I](#part-i)
-- [Part II](#part-ii)
+- [Part I: 100 Days of SwiftUI](#part-i-100-days-of-swiftui)
+- [Part II: Animating SwiftUI Applications](#part-ii-animating-swiftui-applications)
 - [Part III](#part-iii)
 
-## Part I
+## Part I 100 Days of SwiftUI
 <table>
 
   <thead>
@@ -102,6 +102,6 @@ Exploring SwiftUI through a variety of learning resources.
 </table>
 
 
-## Part II
+## Part II Animating SwiftUI Applications
 
 ## Part III
