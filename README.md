@@ -1,5 +1,11 @@
 # 100 Days of SwiftUI
 
+Exploring SwiftUI through a variety of learning resources.
+- [Part I](#part-i)
+- [Part II](#part-ii)
+- [Part III](#part-iii)
+
+## Part I
 <table>
 
   <thead>
@@ -82,5 +88,20 @@
         <img src="./Demo/07-LayoutAndGeometry.gif" alt="LayoutAndGeometry Demo" width="100%" />
       </td>
     </tr>
+    <tr>
+      <td>08</td>
+      <td>Drawing</td>
+      <td>
+        Paths, Shapes, Insettable Shapes, CGAffineTransform
+      </td>
+      <td>
+        <img src="./Demo/08-Drawing.gif" alt="Drawing Demo" width="100%" />
+      </td>
+    </tr>
   </tbody>
 </table>
+
+
+## Part II
+
+## Part III
