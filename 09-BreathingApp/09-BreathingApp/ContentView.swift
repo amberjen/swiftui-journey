@@ -26,12 +26,12 @@ struct ContentView: View {
                 ZStack {
                     
                     Circle()
-                        .fill(LinearGradient(gradient: Gradient(colors: [.indigo, .white]), startPoint: .top, endPoint: .bottom))
+                        .fill(LinearGradient(gradient: Gradient(colors: [.mint, .white]), startPoint: .top, endPoint: .bottom))
                         .frame(width: 120, height: 120)
                         .offset(y: moveInOut ? -60 : 0)
                     
                     Circle()
-                        .fill(LinearGradient(gradient: Gradient(colors: [.indigo, .white]), startPoint: .bottom, endPoint: .top))
+                        .fill(LinearGradient(gradient: Gradient(colors: [.mint, .white]), startPoint: .bottom, endPoint: .top))
                         .frame(width: 120, height: 120, alignment: .center)
                         .offset(y: moveInOut ? 60 : 0)
                     
@@ -42,12 +42,12 @@ struct ContentView: View {
                 ZStack {
                     
                     Circle()
-                        .fill(LinearGradient(gradient: Gradient(colors: [.indigo, .white]), startPoint: .top, endPoint: .bottom))
+                        .fill(LinearGradient(gradient: Gradient(colors: [.mint, .white]), startPoint: .top, endPoint: .bottom))
                         .frame(width: 120, height: 120, alignment: .center)
                         .offset(y: moveInOut ? -60 : 0)
                     
                     Circle()
-                        .fill(LinearGradient(gradient: Gradient(colors: [.indigo, .white]), startPoint: .bottom, endPoint: .top))
+                        .fill(LinearGradient(gradient: Gradient(colors: [.mint, .white]), startPoint: .bottom, endPoint: .top))
                         .frame(width: 120, height: 120, alignment: .center)
                         .offset(y: moveInOut ? 60 : 0)
                 }
@@ -58,12 +58,12 @@ struct ContentView: View {
                 ZStack {
                     
                     Circle()
-                        .fill(LinearGradient(gradient: Gradient(colors: [.indigo, .white]), startPoint: .top, endPoint: .bottom))
+                        .fill(LinearGradient(gradient: Gradient(colors: [.mint, .white]), startPoint: .top, endPoint: .bottom))
                         .frame(width: 120, height: 120, alignment: .center)
                         .offset(y: moveInOut ? -60 : 0)
                     
                     Circle()
-                        .fill(LinearGradient(gradient: Gradient(colors: [.indigo, .white]), startPoint: .bottom, endPoint: .top))
+                        .fill(LinearGradient(gradient: Gradient(colors: [.mint, .white]), startPoint: .bottom, endPoint: .top))
                         .frame(width: 120, height: 120, alignment: .center)
                         .offset(y: moveInOut ? 60 : 0)
                 }
