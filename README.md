@@ -11,7 +11,7 @@ Exploring SwiftUI through a variety of learning resources.
   <thead>
     <tr>
       <th>#</th>
-      <th>Project / Challenge</th>
+      <th>Project</th>
       <th>Content</th>
       <th width="30%">Demo</th>
     </tr>
@@ -103,5 +103,30 @@ Exploring SwiftUI through a variety of learning resources.
 
 
 ## Part II Animating SwiftUI Applications
+<table>
+
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Project</th>
+      <th>Content</th>
+      <th width="30%">Demo</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>09</td>
+      <td>BreathingApp</td>
+      <td>
+        scaleEffect, rotationEffect, offset, animation, LinearGradient
+      </td>
+      <td>
+        <img src="./Demo/09-BreathingApp.gif" alt="BreathingApp Demo" width="100%" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Part III
