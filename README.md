@@ -121,7 +121,7 @@ Exploring SwiftUI through a variety of learning resources.
         scaleEffect, rotationEffect, offset, animation, LinearGradient
       </td>
       <td>
-        <img src="./Demo/09-BreathingApp.gif" alt="BreathingApp Demo" width="100%" />
+        <img src="./Demo/09-BreathingApp2.gif" alt="BreathingApp Demo" width="100%" />
       </td>
     </tr>
   </tbody>
