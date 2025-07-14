@@ -1,4 +1,4 @@
-# 100 Days of SwiftUI
+# SwiftUI Journey
 
 Exploring SwiftUI through a variety of learning resources.
 - [Part I: 100 Days of SwiftUI](#part-i-100-days-of-swiftui)
