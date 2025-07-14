@@ -73,7 +73,7 @@ struct ContentView: View {
             // MARK: - Animations
             .rotationEffect(.degrees(rotateInOut ? 90 : 0))
             .scaleEffect(scaleUpDown ? 1 : 0.25)
-            .animation(.easeOut.repeatForever(autoreverses: true).speed( 1 / 8), value: scaleUpDown)
+            .animation(.easeInOut.repeatForever(autoreverses: true).speed( 1 / 8), value: scaleUpDown)
             .onAppear() {
                 rotateInOut.toggle()
                 scaleUpDown.toggle()
