@@ -124,5 +124,15 @@ Exploring SwiftUI through a variety of learning resources.
         <img src="./Demo/09-BreathingApp2.gif" alt="BreathingApp Demo" width="100%" />
       </td>
     </tr>
+    <tr>
+      <td>10</td>
+      <td>HolographicCard</td>
+      <td>
+        rotation3DEffect, DragGesture, mask, withAnimation
+      </td>
+      <td>
+        <img src="./Demo/10-HolographicCard.gif" alt="HolographicCard Demo" width="100%" />
+      </td>
+    </tr>
   </tbody>
 </table>
