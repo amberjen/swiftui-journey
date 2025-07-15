@@ -131,7 +131,7 @@ Exploring SwiftUI through a variety of learning resources.
         rotation3DEffect, DragGesture, mask, withAnimation
       </td>
       <td>
-        <img src="./Demo/10-HolographicCard.gif" alt="HolographicCard Demo" width="100%" />
+        <img src="./Demo/10-HolographicCard2.gif" alt="HolographicCard Demo" width="100%" />
       </td>
     </tr>
   </tbody>
