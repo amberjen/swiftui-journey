@@ -134,5 +134,15 @@ Exploring SwiftUI through a variety of learning resources.
         <img src="./Demo/10-HolographicCard2.gif" alt="HolographicCard Demo" width="100%" />
       </td>
     </tr>
+    <tr>
+      <td>11</td>
+      <td>Glow Text</td>
+      <td>
+        rotationEffect, LinearGradient, mast, onAppear, animatoin
+      </td>
+      <td>
+        <img src="./Demo/11-GlowText.gif" alt="GlowText Demo" width="100%" />
+      </td>
+    </tr>
   </tbody>
 </table>
