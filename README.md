@@ -144,5 +144,15 @@ Exploring SwiftUI through a variety of learning resources.
         <img src="./Demo/11-GlowText.gif" alt="GlowText Demo" width="100%" />
       </td>
     </tr>
+    <tr>
+      <td>12</td>
+      <td>ScrollMinuteSlider</td>
+      <td>
+        DragGesture, withAnimation
+      </td>
+      <td>
+        <img src="./Demo/12-ScrollMinuteSlider.gif" alt="ScrollMinuteSlider Demo" width="100%" />
+      </td>
+    </tr>
   </tbody>
 </table>
