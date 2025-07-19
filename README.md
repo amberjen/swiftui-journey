@@ -138,7 +138,7 @@ Exploring SwiftUI through a variety of learning resources.
       <td>11</td>
       <td>Glow Text</td>
       <td>
-        rotationEffect, LinearGradient, mast, onAppear, animatoin
+        rotationEffect, LinearGradient, mask, animatoin
       </td>
       <td>
         <img src="./Demo/11-GlowText.gif" alt="GlowText Demo" width="100%" />
