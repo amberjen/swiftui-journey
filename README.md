@@ -154,5 +154,15 @@ Exploring SwiftUI through a variety of learning resources.
         <img src="./Demo/12-ScrollMinuteSlider.gif" alt="ScrollMinuteSlider Demo" width="100%" />
       </td>
     </tr>
+    <tr>
+      <td>13</td>
+      <td>DynamicTab</td>
+      <td>
+        withAnimation, spring animation, transition
+      </td>
+      <td>
+        <img src="./Demo/13-DynamicTab.gif" alt="DynamicTab Demo" width="100%" />
+      </td>
+    </tr>
   </tbody>
 </table>
