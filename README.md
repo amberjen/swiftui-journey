@@ -164,5 +164,15 @@ Exploring SwiftUI through a variety of learning resources.
         <img src="./Demo/13-DynamicTab.gif" alt="DynamicTab Demo" width="100%" />
       </td>
     </tr>
+    <tr>
+      <td>14</td>
+      <td>StackedCards</td>
+      <td>
+        DragGesture, withAnimation, rotation3DEffect, rotationEffect, scaleEffect
+      </td>
+      <td>
+        <img src="./Demo/14-StackedCards2.gif" alt="StackedCards Demo" width="100%" />
+      </td>
+    </tr>
   </tbody>
 </table>
