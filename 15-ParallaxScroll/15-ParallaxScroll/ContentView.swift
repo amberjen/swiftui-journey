@@ -22,7 +22,7 @@ struct ParallaxCarousel: View {
         TravelDestination(title: "Chicago", subtitle: "USA", image: "img1"),
         TravelDestination(title: "Venice", subtitle: "Italy", image: "img2"),
         TravelDestination(title: "Paris", subtitle: "France", image: "img3"),
-        TravelDestination(title: "Vancouver", subtitle: "Canada", image: "img4")
+        TravelDestination(title: "London", subtitle: "United Kingdom", image: "img4")
     ]
     
     private let cardWidth: CGFloat = 320
