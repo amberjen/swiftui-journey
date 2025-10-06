@@ -24,7 +24,7 @@ Exploring SwiftUI through a variety of learning resources.
         Form, NavigationStack, @State, Picker
       </td>
       <td>
-        <img src="./Demo/01-WeSplit.gif" alt="WeSplit Demo" width="100%" />
+        <img src="./Demo_gif/01-WeSplit.gif" alt="WeSplit Demo" width="100%" />
       </td>
     </tr>
     <tr>
@@ -34,7 +34,7 @@ Exploring SwiftUI through a variety of learning resources.
         Turn your steps into snacks.
       </td>
       <td>
-        <img src="./Demo/02-Snackify.gif" alt="Snackify Demo" width="100%" />
+        <img src="./Demo_gif/02-Snackify.gif" alt="Snackify Demo" width="100%" />
       </td>
     </tr>
     <tr>
@@ -44,7 +44,7 @@ Exploring SwiftUI through a variety of learning resources.
         VStack, Image, LinearGradient, Buttons, Alert
       </td>
       <td>
-        <img src="./Demo/03-GuessTheFlag.gif" alt="GuessTheFlag Demo" width="100%" />
+        <img src="./Demo_gif/03-GuessTheFlag.gif" alt="GuessTheFlag Demo" width="100%" />
       </td>
     </tr>
     <tr>
@@ -54,7 +54,7 @@ Exploring SwiftUI through a variety of learning resources.
         Stepper, DatePicker, DateFormatter, Core ML
       </td>
       <td>
-        <img src="./Demo/04-BetterRest.gif" alt="BetterRest Demo" width="100%" />
+        <img src="./Demo_gif/04-BetterRest.gif" alt="BetterRest Demo" width="100%" />
       </td>
     </tr>
     <tr>
@@ -64,7 +64,7 @@ Exploring SwiftUI through a variety of learning resources.
         Implicit animations, explicit animations, binding animations
       </td>
       <td>
-        <img src="./Demo/05-Animations.gif" alt="Animations Demo" width="100%" />
+        <img src="./Demo_gif/05-Animations.gif" alt="Animations Demo" width="100%" />
       </td>
     </tr>
     <tr>
@@ -74,7 +74,7 @@ Exploring SwiftUI through a variety of learning resources.
         @Observable, sheet(), onDelete(), Codable, UserDefaults
       </td>
       <td>
-        <img src="./Demo/06-iExpense.gif" alt="iExpense Demo" width="100%" />
+        <img src="./Demo_gif/06-iExpense.gif" alt="iExpense Demo" width="100%" />
       </td>
     </tr>
     <tr>
@@ -84,7 +84,7 @@ Exploring SwiftUI through a variety of learning resources.
         Layout, alignment, custom guides, GeometryReader
       </td>
       <td>
-        <img src="./Demo/07-LayoutAndGeometry.gif" alt="LayoutAndGeometry Demo" width="100%" />
+        <img src="./Demo_gif/07-LayoutAndGeometry.gif" alt="LayoutAndGeometry Demo" width="100%" />
       </td>
     </tr>
     <tr>
@@ -94,7 +94,7 @@ Exploring SwiftUI through a variety of learning resources.
         Paths, Shapes, Insettable Shapes, CGAffineTransform
       </td>
       <td>
-        <img src="./Demo/08-Drawing.gif" alt="Drawing Demo" width="100%" />
+        <img src="./Demo_gif/08-Drawing.gif" alt="Drawing Demo" width="100%" />
       </td>
     </tr>
   </tbody>
@@ -121,7 +121,7 @@ Exploring SwiftUI through a variety of learning resources.
         scaleEffect, rotationEffect, offset, animation, LinearGradient
       </td>
       <td>
-        <img src="./Demo/09-BreathingApp2.gif" alt="BreathingApp Demo" width="100%" />
+        <img src="./Demo_gif/09-BreathingApp2.gif" alt="BreathingApp Demo" width="100%" />
       </td>
     </tr>
     <tr>
@@ -131,7 +131,7 @@ Exploring SwiftUI through a variety of learning resources.
         rotation3DEffect, DragGesture, mask, withAnimation
       </td>
       <td>
-        <img src="./Demo/10-HolographicCard2.gif" alt="HolographicCard Demo" width="100%" />
+        <img src="./Demo_gif/10-HolographicCard2.gif" alt="HolographicCard Demo" width="100%" />
       </td>
     </tr>
     <tr>
@@ -141,7 +141,7 @@ Exploring SwiftUI through a variety of learning resources.
         rotationEffect, LinearGradient, mask, animatoin
       </td>
       <td>
-        <img src="./Demo/11-GlowText.gif" alt="GlowText Demo" width="100%" />
+        <img src="./Demo_gif/11-GlowText.gif" alt="GlowText Demo" width="100%" />
       </td>
     </tr>
     <tr>
@@ -151,7 +151,7 @@ Exploring SwiftUI through a variety of learning resources.
         DragGesture, withAnimation
       </td>
       <td>
-        <img src="./Demo/12-ScrollMinuteSlider.gif" alt="ScrollMinuteSlider Demo" width="100%" />
+        <img src="./Demo_gif/12-ScrollMinuteSlider.gif" alt="ScrollMinuteSlider Demo" width="100%" />
       </td>
     </tr>
     <tr>
@@ -161,7 +161,7 @@ Exploring SwiftUI through a variety of learning resources.
         withAnimation, spring animation, transition
       </td>
       <td>
-        <img src="./Demo/13-DynamicTab.gif" alt="DynamicTab Demo" width="100%" />
+        <img src="./Demo_gif/13-DynamicTab.gif" alt="DynamicTab Demo" width="100%" />
       </td>
     </tr>
     <tr>
@@ -171,7 +171,7 @@ Exploring SwiftUI through a variety of learning resources.
         DragGesture, withAnimation, rotation3DEffect, rotationEffect, scaleEffect
       </td>
       <td>
-        <img src="./Demo/14-StackedCards2.gif" alt="StackedCards Demo" width="100%" />
+        <img src="./Demo_gif/14-StackedCards2.gif" alt="StackedCards Demo" width="100%" />
       </td>
     </tr>
   </tbody>
